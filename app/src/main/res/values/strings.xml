@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Datahandlingtute</string>
+    <string name="btnselect">Select all</string>
+    <string name="btnadd">Add</string>
+    <string name="signin">Sign In</string>
+    <string name="delbtn">Delete</string>
+    <string name="btnup">Update</string>
+    <string name="user">User name:</string>
+    <string name="Pass">Pssword:</string>
+</resources>
